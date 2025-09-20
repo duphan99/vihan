@@ -1,0 +1,5 @@
+{
+  "name": "Hoa hồng Bán hàng Vihanmed",
+  "description": "Một ứng dụng để tính hoa hồng bán hàng cho nhân viên bằng cách tải lên tệp CSV chứa dữ liệu bán hàng và áp dụng chính sách hoa hồng đã xác định.",
+  "requestFramePermissions": []
+}
